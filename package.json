@@ -37,6 +37,6 @@
   },
   "peerDependencies": {
     "prop-types": "15.6.2",
-    "react-native-maps": "react-native-maps": "git+https://github.com/react-native-community/react-native-maps#ccd48792b74ba810b0e01c60dfc2b5c42f191e72"
+    "react-native-maps": "git+https://github.com/react-native-community/react-native-maps#ccd48792b74ba810b0e01c60dfc2b5c42f191e72"
   }
 }
